@@ -5,7 +5,7 @@
 </head>
 <body>
 <div class="container">
-	<h1>Hello World - Initial Testing - Ignore this please.</h1>
+	<h1>Hello World - Initial Testing - Ignore this please</h1>
 	
 	<input type="button" onClick="getAuthCode();" value="Get Auth Code"><br><br>
 	<input type="button" onClick="doAThing();" value="Do a thing"><br><br>
